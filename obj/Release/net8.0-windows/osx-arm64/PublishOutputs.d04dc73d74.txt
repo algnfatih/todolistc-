@@ -1,0 +1,2 @@
+C:\Users\root\Desktop\csharp\TodoList\os x build\TodoList.pdb
+C:\Users\root\Desktop\csharp\TodoList\os x build\TodoList
